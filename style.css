@@ -1,0 +1,24 @@
+html {
+    background-attachment: fixed;
+    background-image: url(halo-ring-1920-x-1080-wallpaper-qbwknm7q3k0h93l4.jpg);
+    background-size: cover;
+}
+
+body {
+    background: rgba(48, 41, 41, 0.8);
+    width: 600px;
+    padding: 25px 100px;
+    margin: 25px auto;
+    text-align: center;
+    border-radius: 25px;
+  }
+
+  p {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+  }
+
+  h2 {
+    color: white;
+  }
